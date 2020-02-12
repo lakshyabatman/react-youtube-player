@@ -3,7 +3,7 @@
 A single page application on ReactJS which fetches youtube video using 
 YTSearch module and displays it on embed player, apart from this, user can add videos on queue.
 This application's code lies in <code>src</code> folder with reusable components in <code>components</code> directory.
-
+This application is part of task by MyWays and is deployed on , link to #task1 .
 ###  Table Of Contents
 - Features
 - Design and structure of application.
